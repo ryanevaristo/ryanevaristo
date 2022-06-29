@@ -14,16 +14,14 @@
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e47xs51j7al2gehh5quicbetbmuufakzeo6cn0dz62w&rid=giphy.gif&ct=g"  />
-
-###
-
 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=ryanevaristo" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=ryanevaristo" height="150" alt="languages graph"  />
 </div>
+<br>
+<img align="right" height="150" src="https://media4.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e47xs51j7al2gehh5quicbetbmuufakzeo6cn0dz62w&rid=giphy.gif&ct=g"  />
 <br>
 <p>Social Media</p>
 
