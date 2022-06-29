@@ -1,18 +1,6 @@
 <h2 align="left">Hi 👋! My name is Ryan Evaristo de Lima and I'm a Python Developer from Brazil</h2>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=ryanevaristo" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=ryanevaristo" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://media4.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e47xs51j7al2gehh5quicbetbmuufakzeo6cn0dz62w&rid=giphy.gif&ct=g"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" width="42" alt="django logo"  />
@@ -24,6 +12,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" width="42" alt="dart logo"  />
 </div>
 
+###
+
+<img align="right" height="150" src="https://media4.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=ecf05e47xs51j7al2gehh5quicbetbmuufakzeo6cn0dz62w&rid=giphy.gif&ct=g"  />
+
+###
+
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=ryanevaristo" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=ryanevaristo" height="150" alt="languages graph"  />
+</div>
 ###
 
 <div align="left">
@@ -39,5 +39,4 @@
 
 <br clear="both">
 
-###
-Profile Readme Generator
+
